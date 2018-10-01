@@ -25,7 +25,7 @@ public class Fight  {
             
             System.out.println("INICIO DO TURNO!");
             System.out.println("Turno: "+turno);
-            System.out.println("================");
+            System.out.println("==================");
       }
       //inicio do combate
       switch(lutar){ 
