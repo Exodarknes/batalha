@@ -9,7 +9,7 @@ public class Mago extends Personagem {
         this.forca = 10;
         this.defesa = 10;
         this.sabedoria = 10;
-        this.hp = 100;
+        this.hp = 101;
         this.ck = 100;
         this.stamina = 3;
     }
